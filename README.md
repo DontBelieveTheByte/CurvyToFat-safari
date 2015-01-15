@@ -8,11 +8,11 @@ Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat) or on
 
 Firefox version is [here](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) or on the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/).
 
-### Manual Installation
+### Installation
 
 1. Download the [extension](/CurvyToFat.safariextz?raw=true), open Safari, enable Developer mode.
-2. Choose Show Extension Builder from the Develop menu.
-3. Choose Add Extension... from the plus button.
+2. Double click to open it.
+3. Click install from the dialog.
 
 ### Example
 
