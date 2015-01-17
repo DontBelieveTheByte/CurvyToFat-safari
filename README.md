@@ -10,7 +10,7 @@ Firefox version is [here](https://github.com/DontBelieveTheByte/CurvyToFat-firef
 
 ### Installation
 
-1. Download the [extension](/CurvyToFat.safariextz?raw=true), open Safari, enable Developer mode.
+1. Download the [extension](/CurvyToFat.safariextz?raw=true).
 2. Double click to open it.
 3. Click install from the dialog.
 
