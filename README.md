@@ -4,7 +4,7 @@
 
 Safari extension that replaces occurrences of 'curvy' with 'fat' and 'fat' with 'honest'.
 
-Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat) or on the [Play store](https://chrome.google.com/webstore/detail/curvy-to-fat/djfiplfmndogeagnelpbjjnglflialbg).
+Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat) or on the [Google Play store](https://chrome.google.com/webstore/detail/curvy-to-fat/djfiplfmndogeagnelpbjjnglflialbg).
 
 Firefox version is [here](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) or on the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/).
 
